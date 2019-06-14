@@ -1,9 +1,9 @@
 # [scuf4.github.io](https://scuf4.github.io/)
 what is f4?
 
-# 神经网络
+# 1 神经网络
 
-## 生成对抗网络
+## 1.1 生成对抗网络
 
 [用对抗网络生成训练数据：CMU论文A-Fast-RCNN的Caffe实现](https://www.sohu.com/a/133975039_465975)
 
