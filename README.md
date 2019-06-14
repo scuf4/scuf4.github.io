@@ -1,4 +1,4 @@
-# scuf4.github.io
+# [scuf4.github.io](https://scuf4.github.io/)
 what is f4?
 
 # 神经网络
